@@ -47,6 +47,7 @@ Explore our specialized software engineering capabilities:
 
 ## 📱 Featured Engineering Case Studies
 
+* **[The Travel Tales](https://thetraveltales.kahollabs.in):** A global travel storytelling and community publishing platform engineered with Next.js 15, React Server Components, Tailwind CSS, and responsive destination chronicles. Explore the [Case Study on Kahol Labs](https://kahollabs.in/portfolio/the-travel-tales) or visit [thetraveltales.kahollabs.in](https://thetraveltales.kahollabs.in).
 * **[MileageMate for Android](https://kahollabs.in/portfolio/mileagemate):** An offline-first vehicle fuel intelligence and trip cost management Android application built with Kotlin, Jetpack Compose, Room SQLite, and sub-400ms cold start time.
 * **[EVroam Multiplatform Prototype](https://kahollabs.in/portfolio/evroam):** Shared Kotlin and Compose prototype for EV charging, stays, and route intelligence.
 * **[Kahol Saathi E-Commerce AI Concept](https://kahollabs.in/demos/kahol-saathi):** Scripted conversational cart recovery and purchase decision assistant.
